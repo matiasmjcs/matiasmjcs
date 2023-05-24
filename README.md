@@ -6,9 +6,9 @@ Hello! 👋 I'm a passionate frontend and web3 developer with expertise in React
 
 I have a strong interest in developing smart contracts and exploring the exciting world of DeFi. I enjoy creating robust solutions in DeFi and building ERC20 and ERC721 tokens. My knowledge of Solidity, along with tools like Hardhat and Truffle, allows me to develop and test secure and efficient smart contracts.
 
-## User-Friendly Interfaces with React and Web3
+## Frontend Developer Crafting Engaging Web3 Experiences
 
-As a frontend developer, I love crafting attractive and intuitive user interfaces using React. I strive to create modern and interactive experiences that seamlessly integrate with Web3.js, enabling direct interactions with the smart contracts I develop. My goal is to provide users with a smooth and engaging experience when interacting with DApps.
+As a frontend developer, my passion lies in crafting engaging user interfaces that seamlessly integrate with Web3 technologies. Using tools like Web3.js, Ethers.js, and the WAGMI Rainbowkit, I create modern and interactive experiences for decentralized applications (DApps). My goal is to provide users with a smooth and intuitive experience, enabling direct interactions with smart contracts and showcasing the benefits of decentralized finance, NFTs, and other exciting functionalities. 
 
 ## Collaboration and Learning
 
