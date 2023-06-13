@@ -1,20 +1,14 @@
-# Frontend and Web3 Developer
+# Frontend Developer
+Hello there! 👋 I'm a passionate frontend developer with a strong focus on creating intuitive and visually appealing user interfaces. I have extensive experience in React, Next.js, and Vue.js, along with other frontend technologies. In my free time, I enjoy experimenting with WebAssembly (WASM).
 
-Hello! 👋 I'm a passionate frontend and web3 developer with expertise in React and Ethereum. I specialize in building decentralized applications (DApps), focusing on smart contract development, DeFi, and ERC20/ERC721 tokens.
+## Web3 Integration
+In addition to my frontend skills, I also possess knowledge and experience in integrating web3 technologies into applications. I am familiar with tools such as Web3.js and Ethers.js, enabling me to interact with Ethereum networks and smart contracts. I have worked on decentralized applications (DApps), including implementing DeFi functionalities and ERC20/ERC721 tokens.
 
-## Smart Contract Development and DeFi
+## Technologies
+React | Next.js | Vue.js | TypeScript | JavaScript | SCSS | CSS | Tailwind CSS | Solidity | Hardhat | Ethers.js | Web3.js
 
-I have a strong interest in developing smart contracts and exploring the exciting world of DeFi. I enjoy creating robust solutions in DeFi and building ERC20 and ERC721 tokens. My knowledge of Solidity, along with tools like Hardhat and Truffle, allows me to develop and test secure and efficient smart contracts.
-
-## Frontend Developer Crafting Engaging Web3 Experiences
-
-As a frontend developer, my passion lies in crafting engaging user interfaces that seamlessly integrate with Web3 technologies. Using tools like Web3.js, Ethers.js, and the WAGMI Rainbowkit, I create modern and interactive experiences for decentralized applications (DApps). My goal is to provide users with a smooth and intuitive experience, enabling direct interactions with smart contracts and showcasing the benefits of decentralized finance, NFTs, and other exciting functionalities. 
-
-## Collaboration and Learning
-
-I am a collaborative team player who thrives in agile environments. I constantly stay up-to-date with the latest trends and technologies in the web3 space, as I believe in continuous learning and improvement. I am excited to contribute my skills and knowledge to innovative projects in the blockchain and web3 domains.
-
-Feel free to reach out to me with any questions or collaboration opportunities!
+## Collaboration and Continuous Learning
+I thrive in collaborative and agile environments, working effectively within multidisciplinary teams to bring ideas to life. I believe in continuous learning and keeping up-to-date with the latest frontend development trends and practices. This ensures that I deliver the best solutions for my clients and users.
 
 ## Contact Me
 
@@ -22,4 +16,4 @@ Feel free to reach out to me with any questions or collaboration opportunities!
 - LinkedIn: [Matías Mejías Císternas](https://www.linkedin.com/in/matias-mejias-cisternas/)
 - Twitter: [@matiasmjcs](https://twitter.com/matiasmjcs)
 
-Thank you for visiting my GitHub profile! I look forward to connecting with you and exploring the exciting possibilities of web3 and decentralized technologies.
+Thank you for visiting my GitHub profile! If you have any questions or collaboration opportunities, feel free to contact me. I'm excited to work on exciting frontend projects and create exceptional user experiences.
