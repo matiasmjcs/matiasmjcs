@@ -5,7 +5,7 @@ Hello there! 👋 I'm a passionate frontend developer with a strong focus on cre
 In addition to my frontend skills, I also possess knowledge and experience in integrating web3 technologies into applications. I am familiar with tools such as Web3.js and Ethers.js, enabling me to interact with Ethereum networks and smart contracts. I have worked on decentralized applications (DApps), including implementing DeFi functionalities and ERC20/ERC721 tokens.
 
 ## Technologies
-React | Next.js | Vue.js | TypeScript | JavaScript | SCSS | CSS | Tailwind CSS | Solidity | Hardhat | Ethers.js | Web3.js
+React | Next.js | Vue.js | TypeScript | JavaScript | SCSS | CSS | React-query | Redux | Vue-query | Tailwind CSS | Solidity | Hardhat | Ethers.js | Web3.js
 
 ## Collaboration and Continuous Learning
 I thrive in collaborative and agile environments, working effectively within multidisciplinary teams to bring ideas to life. I believe in continuous learning and keeping up-to-date with the latest frontend development trends and practices. This ensures that I deliver the best solutions for my clients and users.
