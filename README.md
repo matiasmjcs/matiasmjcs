@@ -1,16 +1,16 @@
-### Hi there 👋
+# Software Developer
+Hello! 👋 I'm a self-taught software developer with experience in a wide range of technologies. My focus spans both front-end and back-end development, My skill set includes programming in TypeScript, JavaScript, as well as using frameworks and libraries like React.js, Next.js, Express, Nestjs , etc.
 
-<!--
-**matiasmjcs/matiasmjcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies
+- **Programming Languages**: TypeScript | JavaScript
+- **Front-end**: React.js | Next.js | Angular | HTML5 | CSS | SCSS | styled-components | Material UI | Angular Material | Redux Toolkit | React Hooks | React-query | Axios | Tailwind CSS | Jest | React Testing Library 
+- **Back-end**: Express | MongoDB | NestJS | SQL | typeORM | superTest
+- **Other Technologies**: Docker | Linux | Git | GitHub 
 
-Here are some ideas to get you started:
+## Contact Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email: [matiasmejiascisternas@gmail.com](mailto:matiasmejiascisternas@gmail.com)
+- LinkedIn: [Matías Mejías Císternas](https://www.linkedin.com/in/matias-mejias-cisternas/)
+- Twitter: [@matiasmjcs](https://twitter.com/matiasmjcs)
+
+Thank you for visiting my GitHub profile! If you have any questions or collaboration opportunities, feel free to contact me. I'm excited to work on exciting frontend projects and create exceptional user experiences.
