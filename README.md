@@ -1,10 +1,6 @@
 # Software Developer
 Hello! 👋 I'm a self-taught software developer with experience in a wide range of technologies. My focus spans both front-end and back-end development, My skill set includes programming in TypeScript, JavaScript, as well as using frameworks and libraries like React.js, Next.js, Express, Nestjs , etc.
 
-- 👨‍💻 All of my projects are available at [https://matiasdev.vercel.app/](https://matiasdev.vercel.app/)
-
-- 📝 I regularly write articles on [https://matiasdev.vercel.app/resources](https://matiasdev.vercel.app/resources)
-
 - 📫 How to reach me **matiasmejiascisternas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
